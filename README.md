@@ -11,6 +11,7 @@ CivicStack is an intelligent complaint management system designed to streamline 
 * Filtering by priority and category
 * Dashboard analytics (total, resolved, pending)
 * <img width="1180" height="859" alt="image" src="https://github.com/user-attachments/assets/b6261c0c-9cd5-4245-9e4c-fbdce5232647" />
+[google_screen_recording_2026-03-28T10-51_24.110Z.webm](https://github.com/user-attachments/assets/9804b0fd-45fc-4dd9-9da6-231f24ae4c54)
 
 
 ## 🧠 Smart System
